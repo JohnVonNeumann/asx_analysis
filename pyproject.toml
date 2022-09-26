@@ -7,11 +7,14 @@ authors = ["JohnVonNeumann <18162779+JohnVonNeumann@users.noreply.github.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 jupyter = "^1.0.0"
-pyasx = "^2.1.8"
+pyasx = "^3.0.0"
 jupyterlab = "^3.4.5"
 voila = "^0.3.6"
 pandas = "^1.4.4"
 matplotlib = "^3.5.3"
+investpy = "^1.0.8"
+yfinance = "^0.1.74"
+alpha-vantage = "^2.3.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
